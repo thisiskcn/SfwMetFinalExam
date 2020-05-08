@@ -1,0 +1,1 @@
+"C:\Users\Ayush Arvind\AppData\Local\Programs\Python\Python37-32\python.exe" "E:\SMExam\tests_finalexam.py"
